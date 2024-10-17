@@ -1,6 +1,6 @@
 # SerialToIocHub
 
-远程串口 - 串口数据与IocHub的透传(Remote serial port - transparent transmission of serial port data to IocHub)
+跨网段远程串口 - 串口数据与IocHub的透传(Cross network remote serial port - transparent transmission of serial port data to IocHub)
 
 # 前言
 
